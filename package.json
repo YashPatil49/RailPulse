@@ -17,6 +17,7 @@
     "dotenv": "latest",
     "express": "latest",
     "framer-motion": "latest",
+    "maplibre-gl": "^6.14.0",
     "mongoose": "latest",
     "react": "latest",
     "react-dom": "latest",

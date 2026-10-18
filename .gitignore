@@ -4,3 +4,8 @@ dist/
 .env.local
 server/.env
 server/dist/
+
+# Local Interview & Guide Docs (Private)
+ARCHITECTURE_AND_INTERVIEW_GUIDE.md
+RailPulse_Architecture_and_Interview_Guide.*
+build_docs.py
